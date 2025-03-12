@@ -19,7 +19,7 @@
     "build": "rollup -c --bundleConfigAsCjs"
   },
   "author": "Sahil Khatri",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/preset-react": "^7.26.3",
     "@rollup/plugin-babel": "^6.0.4",
@@ -30,10 +30,18 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahil9818336328/React-Toast-Craft"
+  },
   "dependencies": {
     "react-icons": "^5.5.0",
     "rollup": "^4.35.0",
     "rollup-plugin-postcss": "^4.0.2",
     "uuid": "^11.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sahil9818336328/React-Toast-Craft/issues"
+  },
+  "homepage": "https://www.notion.so/React-Toast-Craft-1af9833b839880d3a108e8d4a17fae01"
 }
