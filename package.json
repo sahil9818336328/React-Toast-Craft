@@ -1,6 +1,6 @@
 {
   "name": "react-toast-craft",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A simple and customizable React toast notifications library.",
   "keywords": [
     "react",
@@ -43,5 +43,5 @@
   "bugs": {
     "url": "https://github.com/sahil9818336328/React-Toast-Craft/issues"
   },
-  "homepage": "https://www.notion.so/React-Toast-Craft-1af9833b839880d3a108e8d4a17fae01"
+  "homepage": "https://aquatic-land-060.notion.site/React-Toast-Notifications-Library-1af9833b839880d3a108e8d4a17fae01"
 }
