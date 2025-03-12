@@ -1,5 +1,8 @@
 # react-toast-craft
 
+
+![toasts](https://github.com/user-attachments/assets/502c90fd-40ce-4387-8a6e-beea3cb8b9dc)
+
 A simple and customizable React toast notifications library.
 
 ## Installation
